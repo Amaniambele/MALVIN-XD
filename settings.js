@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "MALVIN-XMD~Mk4kTRwY#X7xZCTC4ZZKVZr4kFwptibwy5OHK5Gh1JpPnMnoRU5E",
 // add your Session Id 
 
 PREFIX: process.env.PREFIX || ".",
